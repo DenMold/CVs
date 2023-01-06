@@ -4,7 +4,7 @@
 ## Installation:
 1. Copy the repository from GitHub;
 2. Create a virtual environment;
-3. Run the program by opening the folder "coffee_shop.html". 
+3. Run the program by opening the folder "index.html". 
 
 ## Built With:
   1. HTML;
